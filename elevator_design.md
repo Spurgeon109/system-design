@@ -305,8 +305,3 @@ This problem tests:
 A strong answer evolves from **basic functionality → efficiency → scalability → resilience**.
 
 ```
-
----
-
-If you want, next we can make a **“Design Uber / Cab Booking System”** note in the same structured format so your repo becomes a full **LLD + HLD interview handbook**.
-```
