@@ -1,5 +1,3 @@
-
-```markdown
 # Microservices Architecture — Key Principles & Best Practices
 
 When building microservices, success depends far more on **design decisions and operational maturity** than just writing code.
@@ -73,11 +71,6 @@ If you don’t design for failure, production will do it for you.
 This is a silent performance killer.
 
 **Bad Pattern**
-```
-
-API Gateway → Service A → Service B → Service C → Service D
-
-```
 
 One slow service slows everything.
 
@@ -201,5 +194,3 @@ Without strong infrastructure, microservices can collapse under their own comple
 
 Microservices are not just an architecture style — they are an **operational and organizational commitment**.  
 Adopt them only when your system complexity and team maturity justify the trade-offs.
-```
-
